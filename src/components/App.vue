@@ -27,9 +27,7 @@
                             <div class="sb-sidenav-menu-heading">Core</div>
                              <router-link to="/" class="nav-link">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                <h3>Dashboard</h3>
-                                <h1>Welcome to Online Library!</h1>
-                                <h1>Hope you like my project</h1>
+                               Dashboard
                             </router-link>
                             <div class="sb-sidenav-menu-heading">Master Data</div>
                             <router-link to="/class" class="nav-link">

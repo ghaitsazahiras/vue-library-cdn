@@ -1,7 +1,8 @@
 <template>
-    <div>
-        <h1>DASHBOARD</h1>
-    </div>
+    <div><br><center>
+        <h1>Dashboard</h1>
+        <h5>Welcome to Online Library!</h5>
+    </center></div>
 </template>
 
 <script>
